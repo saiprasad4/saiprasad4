@@ -6,7 +6,9 @@
 
   ##  Currently
 
-  CTO at [Deciml](https://deciml.in) - India's first micro-investing platform serving 400K+ users. 10+ years building enterprise systems at
+  - Director of Engineering at Edufund [https://edufund.in] and [https://vittamfin.com]
+  
+  - ex-CTO at [Deciml](https://deciml.in) - India's first micro-investing platform serving 400K+ users. 10+ years building enterprise systems at
   Netcracker and Persistent, now helping startups navigate their critical technical decisions.
 
   ##  What I Do
